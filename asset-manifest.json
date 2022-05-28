@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.46875f0a.chunk.css",
+    "main.js": "/static/js/main.08e4ae49.chunk.js",
+    "main.js.map": "/static/js/main.08e4ae49.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c8a21426.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c8a21426.js.map",
+    "static/js/2.f027abe4.chunk.js": "/static/js/2.f027abe4.chunk.js",
+    "static/js/2.f027abe4.chunk.js.map": "/static/js/2.f027abe4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e11c116b9489c647c2b6c1eaa49f8400.js": "/precache-manifest.e11c116b9489c647c2b6c1eaa49f8400.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.46875f0a.chunk.css.map": "/static/css/main.46875f0a.chunk.css.map",
+    "static/js/2.f027abe4.chunk.js.LICENSE.txt": "/static/js/2.f027abe4.chunk.js.LICENSE.txt",
+    "static/media/amazon.gif": "/static/media/amazon.680953bf.gif",
+    "static/media/android_studio.e2d3f4a8.svg": "/static/media/android_studio.e2d3f4a8.svg",
+    "static/media/apk_from_bundle.png": "/static/media/apk_from_bundle.763bf138.png",
+    "static/media/cover_image.png": "/static/media/cover_image.bc667871.png",
+    "static/media/flow_diagram.png": "/static/media/flow_diagram.9f33017e.png",
+    "static/media/galaxy.gif": "/static/media/galaxy.36bb7afa.gif",
+    "static/media/gradle.1f8beabd.svg": "/static/media/gradle.1f8beabd.svg",
+    "static/media/huawei.gif": "/static/media/huawei.58134ee8.gif",
+    "static/media/java.87ade2c4.svg": "/static/media/java.87ade2c4.svg",
+    "static/media/menu_closed.031f4618.svg": "/static/media/menu_closed.031f4618.svg",
+    "static/media/menu_opened.ff754338.svg": "/static/media/menu_opened.ff754338.svg",
+    "static/media/plugin_in_studio.png": "/static/media/plugin_in_studio.c5b287b7.png",
+    "static/media/tool_window.png": "/static/media/tool_window.a0f21137.png",
+    "static/media/top_menu.png": "/static/media/top_menu.31294fd1.png",
+    "static/media/upload_log.jpg": "/static/media/upload_log.b6be3a25.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8a21426.js",
+    "static/js/2.f027abe4.chunk.js",
+    "static/css/main.46875f0a.chunk.css",
+    "static/js/main.08e4ae49.chunk.js"
+  ]
+}
