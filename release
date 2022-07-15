@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+set -e
+
+rm -rf static
+cp -r ../../android/GloballyDynamic/globallydynamic-website/frontend/build/* .
+cp index.html 404.html
+
+git add -A
+git commit -m "Release"
+git push origin master
